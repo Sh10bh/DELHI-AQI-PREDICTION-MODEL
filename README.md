@@ -1,3 +1,5 @@
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/d63458f0-c7e3-4243-952b-d5179b89d128" />
+
 # Delhi AQI Prediction Model
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
