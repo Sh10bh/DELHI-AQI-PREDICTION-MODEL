@@ -1,4 +1,4 @@
-<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/d63458f0-c7e3-4243-952b-d5179b89d128" />
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://delhi-aqi-prediction-model-hpih3hroegepsx6vntekqc.streamlit.app)
 
 # Delhi AQI Prediction Model
 
